@@ -18,10 +18,20 @@ This app is still under development. At present, there may be problems with the 
 
 This is a work in progress.
 
+### Clone this repository.
+
 [source,bash]
 ----
 git clone --recursive https://github.com/shotaminato/Local-LLM-Translator.git
 ----
+
+### Install python modules.
+
+[source,bash]
+----
+python -m pip install customtkinter llama_cpp
+----
+
 
 ## How to Use.
 
